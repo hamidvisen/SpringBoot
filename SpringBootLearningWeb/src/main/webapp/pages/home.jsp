@@ -1,0 +1,1 @@
+Welcome ${obj.aname}, ${obj.aid}, ${obj.lang}
